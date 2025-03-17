@@ -1,7 +1,7 @@
 // LeetCode Problem #2325 -- Decode the Message
 // Language: C++
-// Runtime:
-// Memory:
+// Runtime: 2ms
+// Memory: 10.10mb
 // Date: 17 March, 2025
 
 #include <iostream>
