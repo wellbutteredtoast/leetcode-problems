@@ -13,4 +13,4 @@ int sqrt(int x) {
     return r;
 }
 
-// Note: Good method, insanely fast, and using very little memory across a couple thousand cases.¬
+// Note: Good method, insanely fast, and using very little memory across a couple thousand cases.
