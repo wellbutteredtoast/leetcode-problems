@@ -20,5 +20,3 @@ def plusOne(digits: list[int]) -> list[int]:
 
     return plusonefinallist
     # the pain
-
-print(plusOne([1, 1, 1, 1, 1]))
