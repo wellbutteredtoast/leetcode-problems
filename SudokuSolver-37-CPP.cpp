@@ -51,6 +51,5 @@ void solveSudoku(vector<vector<char>>& board) {
     solve(0, 0);
 }
 
-// Note: lamda calculus is miserable. Really, really, really miserable.
-//       But it got this to work, by some miracle.
+// Note: Anonymous funcs are tragic.
 
